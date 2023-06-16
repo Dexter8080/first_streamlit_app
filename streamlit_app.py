@@ -43,7 +43,7 @@ except URLError as e:
   streamlit.error()
     
 #snowflake Connector 
-streamlit.stop()
+#streamlit.stop()
 #
 #snowflake related functions
 def get_gruit_load_list():
